@@ -1,0 +1,16 @@
+{
+  "apps": {
+    "appraisal": {
+      "path": "H:\\SG\\UI2\\apps\\hcm\\appraisal",
+      "command": "ng s"
+    },
+    "appraisal-portal": {
+      "path": "H:\\SG\\UI2\\apps\\hcm\\appraisal-portal",
+      "command": "ng s"
+    },
+    "gateway": {
+      "path": "H:\\SG\\Alborz\\SGIBS\\HCM3\\Dvp\\Bin\\Gateway",
+      "command": ".\\Gateway.exe --environment development"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "serve-cli",
+  "version": "1.0.0",
+  "description": "A customizable CLI tool for serving apps.",
+  "bin": {
+    "serve-app": "index.js"
+  },
+  "dependencies": {}
+}
