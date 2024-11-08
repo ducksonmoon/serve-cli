@@ -1,9 +1,13 @@
 {
-  "name": "serve-cli",
-  "version": "1.0.0",
+  "name": "anyserve",
+  "version": "1.0.1",
   "description": "A customizable CLI tool for serving apps.",
   "bin": {
     "serve-app": "index.js"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducksonmoon/serve-cli"
+  }
 }
